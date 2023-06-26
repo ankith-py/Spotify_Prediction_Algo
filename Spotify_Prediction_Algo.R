@@ -241,5 +241,5 @@ boxplot(err_mat, main = 'Multiclass Classification for 100 Simulations',xlab = '
 #Code will take a while to run. Number of simulations can be decreased further to reduce runtime.
 #Beep sound to signal that the code has finished running.
 library(beepr)
-beep(8)
+beep(1)
 
