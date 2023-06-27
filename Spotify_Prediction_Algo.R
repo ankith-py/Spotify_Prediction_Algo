@@ -239,7 +239,7 @@ colnames(err_mat) <- c('LDA', 'Ordinal', 'Tree', 'Pruned Tree', 'SVM')
 boxplot(err_mat, main = 'Multiclass Classification for 100 Simulations',xlab = 'Method', ylab = 'Error Rate', col = 'light blue')
 
 #Code will take a while to run. Number of simulations can be decreased further to reduce runtime.
-#Beep sound to signal that the code has finished running.
+#Beep sound to signal that the script has finished running.
 library(beepr)
 beep(1)
 
