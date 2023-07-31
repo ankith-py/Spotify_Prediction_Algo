@@ -1,4 +1,4 @@
-# Spotify_Prediction_Algo
+# Spotify Prediction Algorithm (Statistical Learning w/ R Project)
 Different classification algorithms that predict the popularity of a song on Spotify given it's various musical attributes including both categorial and numerical predictors. Spotify data was obtained through Kaggle, a data analysis platform where users can collaborate, share, and work on data-related projects. The response variable is "Popularity" which was converted to a categorial ordinal variable. Colinearity among variables were assessed by creating a correlation matrix heatmap:
 
 ![image](https://github.com/ankith-py/Spotify_Prediction_Algo/assets/87325426/803afcfa-0531-4ae6-b217-c03a7e946b47)
